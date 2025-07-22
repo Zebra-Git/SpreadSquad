@@ -1,0 +1,32 @@
+.aboutSection {
+  background: #000;
+  color: #fff;
+  padding: 56px 0 32px 0;
+  text-align: center;
+}
+.title {
+  font-size: 1.6rem;
+  font-weight: 700;
+  margin-bottom: 32px;
+  color: #fff;
+  text-align: center;
+}
+.text {
+  font-size: 1.12rem;
+  color: #e0e0e0;
+  max-width: 600px;
+  margin: 0 auto;
+  line-height: 1.7;
+  text-align: center;
+}
+@media (max-width: 600px) {
+  .aboutSection {
+    padding: 28px 0 18px 0;
+  }
+  .title {
+    font-size: 1.1rem;
+  }
+  .text {
+    font-size: 0.98rem;
+  }
+} 
