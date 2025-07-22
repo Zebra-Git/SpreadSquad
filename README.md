@@ -18,4 +18,4 @@ npm run dev
 
 ---
 
-© 2024 Spread Squad
+
